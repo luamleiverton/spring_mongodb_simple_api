@@ -1,4 +1,4 @@
-# spring_mongodb_single_api
+# spring_mongodb_simple_api
 
 Alura' Java Imersion, in July,22.
 
